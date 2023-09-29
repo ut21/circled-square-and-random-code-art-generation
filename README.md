@@ -4,3 +4,7 @@ takes a square grid of points and applies various transformations from https://a
 ![Plots](saved_plots/seed_6.png)
 ![Plots](saved_plots/seed_5.png)
 ![Plots](saved_plots/seed_4.png)
+
+Admittedly, there is nothing super mathematically interesting about these plots. I just happened to luck in on a transformation function that works well. 
+
+You might want to check out my other repo of cellular automata generation for more interesting math. 
